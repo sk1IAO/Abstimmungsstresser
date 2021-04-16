@@ -8,7 +8,8 @@ till=100
 snooze=`shuf -i 2-15 -n 1`
 while [ $x -le $till ]
 do
-  vote=`shuf -i 31-35 -n 1`
+  vote=`shuf -i 31-34 -n 1`
+  snooze=`shuf -i 2-15 -n 1`
   printf "\n"
   if [ $vote -ge 32 ]
    then
