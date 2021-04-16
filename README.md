@@ -1,2 +1,2 @@
 # Abstimmungsstresser
-Vor dem ersten öffnen mit Texteditor bearbeiten und Token einfügen.
+Vor dem ausführen mit Texteditor bearbeiten und Token einfügen.
